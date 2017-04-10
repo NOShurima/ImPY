@@ -1,0 +1,10 @@
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\Perfect Smite\Perfect Smite\bin\Release\Perfect Smite.exe.config
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\Perfect Smite\Perfect Smite\bin\Release\Perfect Smite.exe
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\Perfect Smite\Perfect Smite\bin\Release\Perfect Smite.pdb
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\Perfect Smite\Perfect Smite\bin\Release\EloBuddy.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\Perfect Smite\Perfect Smite\bin\Release\EloBuddy.SDK.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\Perfect Smite\Perfect Smite\bin\Release\SharpDX.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\Perfect Smite\Perfect Smite\bin\Release\Newtonsoft.Json.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\Perfect Smite\Perfect Smite\obj\Release\Perfect Smite.exe
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\Perfect Smite\Perfect Smite\obj\Release\Perfect Smite.pdb
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\Perfect Smite\Perfect Smite\obj\Release\Perfect Smite.csprojResolveAssemblyReference.cache
