@@ -1,0 +1,11 @@
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\ShuLux\ShuLux\bin\Release\ShuLux.exe.config
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\ShuLux\ShuLux\bin\Release\ShuLux.exe
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\ShuLux\ShuLux\bin\Release\ShuLux.pdb
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\ShuLux\ShuLux\bin\Release\EloBuddy.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\ShuLux\ShuLux\bin\Release\EloBuddy.SDK.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\ShuLux\ShuLux\bin\Release\SharpDX.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\ShuLux\ShuLux\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\ShuLux\ShuLux\bin\Release\Newtonsoft.Json.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\ShuLux\ShuLux\obj\Release\ShuLux.exe
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\ShuLux\ShuLux\obj\Release\ShuLux.pdb
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\ShuLux\ShuLux\obj\Release\ShuLux.csprojResolveAssemblyReference.cache
